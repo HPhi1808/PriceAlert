@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253017111446",
+    "project_id": "price-alert-a71d4",
+    "storage_bucket": "price-alert-a71d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253017111446:android:a839c927cf3aafc747fbb7",
+        "android_client_info": {
+          "package_name": "com.example.price_alert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB9OiGrHoJ9ajJpAv9chyI1b4heMYG7hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
